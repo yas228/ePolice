@@ -4,7 +4,7 @@
              x:Class="App1.CreateIncident">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="WE NEED TO ADD A LOCAL DB AND BIND TO IT" />
+            <Label Text="WE NEED TO ADD A LOCAL DB AND BIND TO IT!" />
             <Editor Placeholder="enter you incident" 
                 Text="{Binding Text}"
                 HeightRequest="100" />
